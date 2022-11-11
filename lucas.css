@@ -1,0 +1,26 @@
+#pagina{
+    margin:0 auto ;
+}
+
+#cabecario,#esquerda,#centro,#direita,#rodape{
+    background-color: blue;
+    margin: 10px;
+
+}
+#cabecario{
+    height: 150p;
+}
+#esqueda{
+    width: 20%;
+    height: 500px;
+    float: left;
+}
+#centro{
+    width: 55%;
+    height: 500px;
+    float: right;
+}
+#hodape{
+    height: 50px;
+    background-color :blue;
+}
